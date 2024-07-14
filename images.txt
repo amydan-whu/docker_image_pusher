@@ -6,3 +6,7 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 jmal/jmalcloud
 kerberos/agent
+jmal/jmalcloud-nginx:latest
+onlyoffice/documentserver:7.0.0.132
+jgraph/drawio:20.2.3
+mongo:4.4
