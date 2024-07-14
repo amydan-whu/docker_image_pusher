@@ -10,3 +10,4 @@ jmal/jmalcloud-nginx:latest
 onlyoffice/documentserver:7.0.0.132
 jgraph/drawio:20.2.3
 mongo:4.4
+migoller/shinobidocker
