@@ -14,3 +14,4 @@ migoller/shinobidocker
 dreamacro/clash
 haishanh/yacd
 iikira/BaiduPCS-Go
+johngong/baidupcs-web
