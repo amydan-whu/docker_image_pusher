@@ -13,5 +13,5 @@ mongo:4.4
 migoller/shinobidocker
 dreamacro/clash
 haishanh/yacd
-centralx/clash-dashboard
+#centralx/clash-dashboard
 moelin/1panel:latest
