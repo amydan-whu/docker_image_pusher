@@ -14,3 +14,4 @@ migoller/shinobidocker
 dreamacro/clash
 haishanh/yacd
 centralx/clash-dashboard
+moelin/1panel:latest
