@@ -15,4 +15,4 @@
 #haishanh/yacd
 #centralx/clash-dashboard
 #moelin/1panel:latest
-emby/embyserver:4.8.1.0
+emby/embyserver:latest
