@@ -15,4 +15,5 @@
 #haishanh/yacd
 #centralx/clash-dashboard
 #moelin/1panel:latest
-emby/embyserver:latest
+#emby/embyserver:latest
+ubuntu:22.04
