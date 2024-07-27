@@ -16,4 +16,5 @@
 #centralx/clash-dashboard
 #moelin/1panel:latest
 #emby/embyserver:latest
-ubuntu:22.04
+#ubuntu:22.04
+vulhub/php:8.3.4-apache
