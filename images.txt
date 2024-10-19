@@ -17,6 +17,7 @@
 #moelin/1panel:latest
 #emby/embyserver:latest
 #ubuntu:22.04
-vulhub/php:8.3.4-apache
-gcc:8
-node:18@sha256:f910225c96b0f77b0149f350a3184568a9ba6cddba2a7c7805cc125a50591605
+#vulhub/php:8.3.4-apache
+#gcc:8
+#node:18@sha256:f910225c96b0f77b0149f350a3184568a9ba6cddba2a7c7805cc125a50591605
+openjdk:8u121
