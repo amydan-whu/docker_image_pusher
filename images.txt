@@ -24,5 +24,7 @@
 #ubuntu@sha256:d4f6f70979d0758d7a6f81e34a61195677f4f4fa576eaf808b79f17499fd93d1
 #ubuntu:17.10
 #alpine@sha256:beefdbd8a1da6d2915566fde36db9db0b524eb737fc57cd1367effd16dc0d06d
-openjdk:8
-mysql:8
+#openjdk:8
+#mysql:8
+ubuntu:latest
+openjdk:11
