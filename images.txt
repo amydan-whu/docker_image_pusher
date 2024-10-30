@@ -26,5 +26,6 @@
 #alpine@sha256:beefdbd8a1da6d2915566fde36db9db0b524eb737fc57cd1367effd16dc0d06d
 #openjdk:8
 #mysql:8
-ubuntu:latest
-openjdk:11
+#ubuntu:latest
+#openjdk:11
+ubuntu:16.04
