@@ -28,4 +28,5 @@
 #mysql:8
 #ubuntu:latest
 #openjdk:11
-ubuntu:16.04
+#ubuntu:16.04
+ubuntu:20.04
