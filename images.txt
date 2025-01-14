@@ -45,5 +45,5 @@
 #ubuntu:23.10
 #ubuntu:24.04
 #vulhub/docker:18.03.0
-chenhw2/aliyun-ddns-cli
-
+#chenhw2/aliyun-ddns-cli
+koush/scrypted
