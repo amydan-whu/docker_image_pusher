@@ -46,4 +46,6 @@
 #ubuntu:24.04
 #vulhub/docker:18.03.0
 #chenhw2/aliyun-ddns-cli
-koush/scrypted
+#koush/scrypted
+homeassistant/home-assistant
+ghcr.io/ajnart/homarr:latest
