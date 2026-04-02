@@ -49,4 +49,10 @@
 #koush/scrypted
 #homeassistant/home-assistant
 #ghcr.io/ajnart/homarr:latest
-openc3inc/openc3-ruby:latest                                                                                                                 
+openc3inc/openc3-ruby:latest          
+traefik:v3.2.0
+openc3inc/openc3-base:latest
+openc3inc/openc3-node:latest
+minio/mc:RELEASE.2024-04-29T09-56-05Z
+minio/minio:RELEASE.2024-06-22T05-26-45Z
+redis:7.2-alpine
