@@ -47,5 +47,6 @@
 #vulhub/docker:18.03.0
 #chenhw2/aliyun-ddns-cli
 #koush/scrypted
-homeassistant/home-assistant
-ghcr.io/ajnart/homarr:latest
+#homeassistant/home-assistant
+#ghcr.io/ajnart/homarr:latest
+openc3inc/openc3-ruby:latest                                                                                                                 
