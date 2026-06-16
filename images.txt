@@ -58,4 +58,5 @@
 #redis:7.2-alpine
 #new-api:latest
 #redis:latest
-postgres:latest
+#postgres:latest
+calciumion/new-api
