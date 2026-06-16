@@ -58,4 +58,4 @@
 #redis:7.2-alpine
 #new-api:latest
 #redis:latest
-postgrest:latest
+postgres:latest
